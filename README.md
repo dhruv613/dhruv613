@@ -10,7 +10,6 @@ Welcome to my GitHub profile. I'm Dhruv, a dedicated AI Engineer with a passion 
 - 🛠️ Skilled in Python, OOP, Data Structures, and Algorithms.
 - 📊 Strong focus on building real-world, logic-driven AI/ML projects.
 - 🔧 Hands-on with frameworks like TensorFlow, PyTorch, Scikit-learn, and OpenCV.
-- 🖥️ Frontend & backend development experience with HTML, CSS, JavaScript, React, Node.js, Express.js.
 - ⚙️ Exploring AI integration with Arduino and robotics.
 - 📚 Currently strengthening my foundation in **Mathematics for AI** and **Linear Algebra**.
 - 📅 College-going student focused on managing studies, projects, and personal growth with a disciplined outlook.

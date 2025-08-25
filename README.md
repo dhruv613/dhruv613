@@ -18,7 +18,8 @@
 ---
 
 ## 🎯 Learning Now  
-📘 Linear Algebra 
+👩‍💻 Data Visualization
+📘 Linear Algebra, Probability-Statistics
 🤖 AI + Robotics 
 📊 ML/DL Core Concepts
 

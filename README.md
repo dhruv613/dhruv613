@@ -1,27 +1,30 @@
-# 👨‍💻 Dhruv | AI Engineer
+#  Dhruv |🤖 AI/ML Explorer • Building cool things 
 
-🧠 AI/ML enthusiast crafting intelligent systems with tradition, logic, and purpose.
+AI/ML enthusiast crafting intelligent systems with tradition, logic, and purpose.
+
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhruv613&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## ⚙️ Skills  
+
+##  Skills  
 🐍 Python 
 🧮 NumPy 
 📊 Pandas  
-
-
----
-
-## 🚀 Projects  
-- 🤖 **Zyro** – Custom Voice AI Assistant   
+🌐 Selenium
+🎨 Tkinter & Custom-Tkinter
+🤖 Automation
+📡 Vibe Coding
 
 ---
 
 ## 🎯 Learning Now  
-👩‍💻 Data Visualization
-📘 Linear Algebra, Probability-Statistics
-🤖 AI + Robotics 
-📊 ML/DL Core Concepts
+🤖 AI 
+📊 Data Visualization
+⚙️ ML/DL Core Concepts
+📘 Linear Algebra, Probability-Statistics, Dijkstra's Algorithm
 
 
 

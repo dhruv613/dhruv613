@@ -27,14 +27,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruv613&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ### 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)

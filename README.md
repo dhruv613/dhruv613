@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 
-<h3 align="center">🤖 AI/ML Developer • Deep Learning • Full Stack • Automation</h3>
+<h3 align="center">🤖 AI/ML Engineer • Deep Learning • Full Stack • Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Computer+Vision;Automation;FastAPI+Developer;Always+Learning+Something+New" alt="Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Automation, FastAPI Developer" />

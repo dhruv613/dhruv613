@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=280&section=header&text=Dhruv&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer&descAlignY=58" alt="Dhruv — AI and Machine Learning Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=280&section=header&text=Dhruv&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer&descAlignY=58" alt="Dhruv — AI Engineer" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
@@ -131,9 +131,10 @@
 
 # 💬 Favorite Quote
 
-> **"First, solve the problem. Then, write the code."**  
-> — *John Johnson*
+> **"We don't build services to make money; we make money to build better services"**  
+> — *Mark Zuckerberg*
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:8A2BE2,100:00F5FF" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:8A2BE2,100:00F5FF"/>
 </p>

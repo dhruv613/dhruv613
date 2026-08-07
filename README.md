@@ -109,7 +109,7 @@
 - 📧 Developing intelligent Outlook Mail Automation tools.
 - 🧠 Interested in Deep Learning, Computer Vision, and Large Language Models (LLMs).
 - 💻 Building scalable Full Stack applications using FastAPI and React.
-- 🚀 Always exploring new technologies and creating practical AI solutions.
+
 
 ---
 

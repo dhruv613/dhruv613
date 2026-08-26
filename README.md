@@ -3,7 +3,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
+<h1 align="center">Hy 👋, I'm Dhruv</h1>
 
 <h3 align="center">🤖 AI/ML Engineer • Deep Learning • Full Stack • Automation</h3>
 

@@ -25,12 +25,10 @@
 
 <div align="center">
 
-<h3><code>dhruv@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" alt="Dhruv's live contribution heatmap" />
 
 <br><br>
 
-<h3><code>dhruv@github ~ $ whoami</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Dhruv's animated ASCII portrait" /></td>
@@ -40,7 +38,7 @@
 
 <br><br>
 
-<h3><code>dhruv@github ~ $ ./source-avatar.jpg</code></h3>
+<h3><code>dhruv@github</code></h3>
 <img src="./source-photo.jpg" width="180" alt="Dhruv's source avatar" />
 
 </div>
@@ -51,7 +49,6 @@
 
 <p align="center">
   <img width="49%" src="https://readme-stats-fast.vercel.app/api?username=dhruv613&show_icons=true&theme=radical" alt="Dhruv's GitHub statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dhruv613&theme=radical" alt="Dhruv's GitHub streak" />
 </p>
 
 ---
@@ -61,14 +58,6 @@
 <p align="center">
   <img width="40%" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=dhruv613&layout=compact&theme=radical&hide=c++,c" alt="Most used languages" />
   <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruv613&theme=radical" alt="GitHub profile details" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv613&theme=github-compact" alt="GitHub contribution graph" />
 </p>
 
 ---
